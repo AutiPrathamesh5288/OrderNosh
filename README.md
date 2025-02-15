@@ -24,7 +24,7 @@ To run this project, you'll need to have Android Studio (Version: Flamingo) inst
 
 ## Installation
 1. Clone the repository:
-   https://github.com/vaibhavharane2001/Smart-Canteen-Automation-System-Using-Android.git
+   https://github.com/AutiPrathamesh5288/OrderNosh
     
 3. Open the project in Android Studio.
 4. Set up the Firebase configuration by adding the `google-services.json` file to your project.
