@@ -30,3 +30,8 @@ To run this project, you'll need to have Android Studio (Version: Flamingo) inst
 4. Set up the Firebase configuration by adding the `google-services.json` file to your project.
 5. Build and run the app on an Android device or emulator.
 
+![Home Screen](https://github.com/AutiPrathamesh5288/OrderNosh/blob/main/ScreenShots/App_Screenshot%20(1).jpg?raw=true)
+
+![Profile Screen](https://github.com/AutiPrathamesh5288/OrderNosh/blob/main/ScreenShots/App_Screenshot%20(6).jpg?raw=true)
+![Food Add Screen](https://github.com/AutiPrathamesh5288/OrderNosh/blob/main/ScreenShots/App_Screenshot%20(5).jpg?raw=true)
+![Orders Screen](https://github.com/AutiPrathamesh5288/OrderNosh/blob/main/ScreenShots/App_Screenshot%20(2).jpg?raw=true)
